@@ -1,0 +1,5 @@
+0: Safe driving
+1: Minimum distraction
+2: Turning
+3: Texting on the phone
+4: Talking on the phone

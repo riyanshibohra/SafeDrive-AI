@@ -1,0 +1,5 @@
+0: Safe driving
+1: Minimum distraction
+2: Attention Required - Face Forward
+3: Texting Detected - Please Focus on driving
+4: Phone Use Detected - Please Hang Up

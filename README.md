@@ -2,8 +2,6 @@
 
 Welcome to the SafeDriveAI project, an AI-powered system designed to enhance transportation safety by detecting distracted driving behavior in real time and providing tailored alerts to the driver.
 
-![Project Overview]
-
 ## Project Objectives
 1. **Develop and AI Model**: Implement a deep learning multi-class classification model to detect and classify distracted driving behaviors.
 2. **Alert Drivers**: Generate personalized and tailored alerts based on distraction severity.
@@ -59,6 +57,11 @@ Welcome to the SafeDriveAI project, an AI-powered system designed to enhance tra
 
 ## Conclusion
 Our deep learning model effectively classifies driver behavior into five categories, issuing tailored alerts that significantly enhance driver safety by mitigating risky behaviors in real time.
+
+## References
+- [NHTSA, Distracted Driving in 2022](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813559)
+- [Kaggle, Driver Behavior Dataset](https://www.kaggle.com/datasets/robinreni/revitsone-5class/data)
+- Bridget, A. et al. (2017). "Effectiveness of Bimodal Versus Unimodal Alerts for Distracted Drivers," pp. 376-382. [DOI: 10.17077/DRIVINGASSESSMENT.1515](https://doi.org/10.17077/DRIVINGASSESSMENT.1515)
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.

@@ -1,8 +1,8 @@
-<img width="700" alt="Screenshot 2025-02-23 at 4 58 15 PM" src="https://github.com/user-attachments/assets/7d49bf8d-adc8-467f-bb8b-3e9d61875001" /># SafeDrive-AI: Real-time Distracted Driving Detection with AI-powered Facial Analysis
+# SafeDrive-AI: Real-time Distracted Driving Detection with AI-powered Facial Analysis
 
 Welcome to the SafeDriveAI project, an AI-powered system designed to enhance transportation safety by detecting distracted driving behavior in real time and providing tailored alerts to the driver.
 
-<img width="700" alt="Screenshot 2025-02-23 at 4 58 15 PM" src="https://github.com/user-attachments/assets/8d46fbe2-0031-4479-b242-0d11f31799b6" />
+<img width="700" alt="Screenshot 2025-02-23 at 4 58 15 PM" src="https://github.com/user-attachments/assets/7d49bf8d-adc8-467f-bb8b-3e9d61875001" />
 
 ## Project Objectives
 1. **Develop and AI Model**: Implement a deep learning multi-class classification model to detect and classify distracted driving behaviors.

@@ -28,7 +28,6 @@ def plot_route(G, origin_node, destination_node, route):
     ax.text(end_pos[0], end_pos[1], 'End', color='white', fontsize=12, bbox=dict(facecolor='white', alpha=0.8), horizontalalignment='right')
 
     # Save the figure before showing it
-    #plt.savefig('/Users/shashwatsingh/Documents/GitHub/FocusRide/sampleroute.png')
     plt.show()
 
 def main():

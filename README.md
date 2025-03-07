@@ -70,6 +70,5 @@ Our deep learning model effectively classifies driver behavior into five categor
 - Bridget, A. et al. (2017). "Effectiveness of Bimodal Versus Unimodal Alerts for Distracted Drivers," pp. 376-382. [DOI: 10.17077/DRIVINGASSESSMENT.1515](https://doi.org/10.17077/DRIVINGASSESSMENT.1515)
 
 ## Contributions
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 

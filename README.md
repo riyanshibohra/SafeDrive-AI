@@ -69,6 +69,3 @@ Our deep learning model effectively classifies driver behavior into five categor
 - [Kaggle, Driver Behavior Dataset](https://www.kaggle.com/datasets/robinreni/revitsone-5class/data)
 - Bridget, A. et al. (2017). "Effectiveness of Bimodal Versus Unimodal Alerts for Distracted Drivers," pp. 376-382. [DOI: 10.17077/DRIVINGASSESSMENT.1515](https://doi.org/10.17077/DRIVINGASSESSMENT.1515)
 
-## Contributions
-
-

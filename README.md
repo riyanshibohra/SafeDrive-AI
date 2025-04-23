@@ -2,7 +2,7 @@
    
 # SafeDrive-AI: Real-time Distracted Driving Detection
 
-Welcome to the SafeDriveAI project, an AI-powered system designed to enhance transportation safety by detecting distracted driving behavior in real time and providing tailored alerts to the driver.
+An AI-powered system designed to enhance transportation safety by detecting distracted driving behavior in real time and providing tailored alerts to the driver.
 
 <img width="700" alt="Screenshot 2025-02-23 at 4 58 15 PM" src="https://github.com/user-attachments/assets/7d49bf8d-adc8-467f-bb8b-3e9d61875001" />
 
